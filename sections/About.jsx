@@ -36,6 +36,9 @@ const About = () => (
         of the metaverse by scrolling down
       </motion.p>
       
+      <motion.img
+      variants={fadeIn( 'up', 'tween', 0.3, 1)}
+      src="/arrow-down.svg"
 
     </motion.div>
   </section>
