@@ -16,6 +16,6 @@ const ExploreCard = ({ id, imgUrl, title, index,
     >
       Explore Card
     </motion.div>
-);
+);  
 
 export default ExploreCard;
